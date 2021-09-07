@@ -13,7 +13,7 @@
 </div>
 
 
-![Snake animation](https://github.com/rafaballerini/DiegoRodrigues007/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/DiegoRodrigues007/DiegoRodrigues007/edit/main/README.md)
 
 
 
