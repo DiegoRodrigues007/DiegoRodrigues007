@@ -10,7 +10,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Rafa-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/CSharp/CSharp-original.svg">
+  <img align="center" alt="Rafa-cSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cSharp/cSharp-original.svg">
  
  
 </div>
