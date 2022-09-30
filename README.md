@@ -1,9 +1,11 @@
 # Olá, eu sou o Diego!
  
  [![Blog](https://img.shields.io/website?label=DiegoRodrigues.com&style=for-the-badge&url=https://diegorodriguesv3007.netlify.app/)](https://diegorodriguesv3007.netlify.app/)
+ 
+ ###  <kbd>Contato:</kbd><br>
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigues_diego06/)
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-rodrigues-564b09210/)
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](diego.rodrigues@gmail.com)
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diego.rodrigues3007@gmail.com)
  
  <div>
   <a href="https://github.com/DiegoRodrigues007">
