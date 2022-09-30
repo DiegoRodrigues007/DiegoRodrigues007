@@ -1,6 +1,7 @@
 # Olá, eu sou o Diego!
  
  [![Blog](https://img.shields.io/website?label=DiegoRodrigues.com&style=for-the-badge&url=https://diegorodriguesv3007.netlify.app/)](https://diegorodriguesv3007.netlify.app/)
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigues_diego06/)
 
  <div>
   <a href="https://github.com/DiegoRodrigues007">
